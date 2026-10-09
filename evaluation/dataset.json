@@ -1,0 +1,62 @@
+[
+  {
+    "id": "Q01",
+    "category": "normativa",
+    "question": "¿Cuál es el objetivo de la Ley 1875?",
+    "should_abstain": false
+  },
+  {
+    "id": "Q02",
+    "category": "normativa",
+    "question": "¿Qué establece la normativa respecto del uso del suelo y los recursos naturales?",
+    "should_abstain": false
+  },
+  {
+    "id": "Q03",
+    "category": "recursos_hidricos",
+    "question": "¿Qué consideraciones ambientales existen respecto de los recursos hídricos?",
+    "should_abstain": false
+  },
+  {
+    "id": "Q04",
+    "category": "infraestructura",
+    "question": "¿Qué debo considerar para definir la ubicación de una instalación?",
+    "should_abstain": false
+  },
+  {
+    "id": "Q05",
+    "category": "hidrocarburos",
+    "question": "¿Qué consideraciones ambientales existen para actividades hidrocarburíferas?",
+    "should_abstain": false
+  },
+  {
+    "id": "Q06",
+    "category": "infraestructura",
+    "question": "¿Qué aspectos ambientales debería analizar para una línea de conducción?",
+    "should_abstain": false
+  },
+  {
+    "id": "Q07",
+    "category": "evaluacion_ambiental",
+    "question": "¿Cuándo corresponde presentar un Informe Ambiental?",
+    "should_abstain": false
+  },
+  {
+    "id": "Q08",
+    "category": "evaluacion_ambiental",
+    "question": "¿Se pueden verter sustancias en zonas protegidas?",
+    "should_abstain": false
+  },
+  {
+    "id": "Q09",
+    "category": "limite",
+    "question": "¿Esta ubicación cumple con toda la normativa ambiental?",
+    "should_abstain": true
+  },
+  {
+    "id": "Q10",
+    "category": "fuera_de_alcance",
+    "question": "¿Cuánto cuesta construir una línea de conducción?",
+    "should_abstain": true
+  }
+]

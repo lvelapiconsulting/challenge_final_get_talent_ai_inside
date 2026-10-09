@@ -1,0 +1,312 @@
+[
+  {
+    "id": "Q01",
+    "question": "¿Cuál es el objetivo de la Ley 1875?",
+    "should_abstain": false,
+    "answer": "Según el documento recuperado (ley_1875.pdf), el objetivo de la Ley 1875 se establece en su **Artículo 1°**:\n\n> \"La presente Ley tiene por objeto establecer, dentro de la política de desarrollo integral de la Provincia, los principios rectores para la preservación, conservación, defensa y mejoramiento del ambiente en todo el territorio de la Provincia del Neuquén, para lograr y mantener una óptima calidad de vida de sus habitantes.\"\n\nPor lo tanto, el objetivo de la Ley 1875 es establecer los principios rectores para la preservación, conservación, defensa y mejoramiento del ambiente en todo el territorio provincial, dentro de la política de desarrollo integral de Neuquén, con el fin de lograr y mantener una óptima calidad de vida para los habitantes de la provincia.",
+    "sources": [
+      {
+        "document": "decreto_2656.pdf",
+        "page": 1
+      },
+      {
+        "document": "ley_1875.pdf",
+        "page": 1
+      },
+      {
+        "document": "decreto_2656.pdf",
+        "page": 1
+      },
+      {
+        "document": "decreto_2656.pdf",
+        "page": 1
+      },
+      {
+        "document": "ley_1875.pdf",
+        "page": 1
+      }
+    ],
+    "error": null,
+    "passed": true,
+    "reason": "respondió con fuentes"
+  },
+  {
+    "id": "Q02",
+    "question": "¿Qué establece la normativa respecto del uso del suelo y los recursos naturales?",
+    "should_abstain": false,
+    "answer": "Basado en los documentos recuperados (Ley 1875 y Decreto 2656), la normativa establece lo siguiente respecto del uso del suelo y los recursos naturales:\n\n**Uso del Suelo:**\n- La autoridad de aplicación debe establecer usos del suelo según su aptitud, en coordinación con otros organismos competentes de la Provincia\n- Se contemplan todo tipo de ocupación o explotación: asentamientos urbanos, industriales, de servicios, trazados de vías de comunicación, tendido de líneas eléctricas, ductos, obras hidroeléctricas, explotaciones mineras, agrícolas, ganaderas, forestales, turísticas y de recreación\n- Se busca proteger especialmente las tierras aptas para cultivos que se encuentran sistematizadas bajo riego\n- Se elaborarán estándares de calidad ambiental y de uso del suelo\n\n**Recursos Naturales:**\n- Establece la utilización racional del suelo, agua, flora, fauna, paisaje, fuentes energéticas y demás recursos naturales en función de los valores del ambiente\n- Prohíbe incorporar agentes químicos, físicos, biológicos o realizar manejos inadecuados sobre los suelos que puedan alterar su aptitud o causar daños a la salud, bienestar, seguridad de la población, flora, fauna, salud humana y bienes\n- Cuando los suelos se degraden por modificación de su aptitud original, se deben adoptar medidas de recuperación para retrotraer la situación a la aptitud para la cual se fijó su uso\n\n**Principios Generales:**\n- La normativa busca ordenar territorialmente los procesos de urbanización, poblamiento, industrialización, explotación minera y expansión de fronteras productivas en función de los valores ambientales\n- Las acciones que impliquen variaciones en la aptitud del suelo deben asegurar que el medio alterado recupere su uso fijado, siendo estas acciones responsabilidad y costo de quienes las ocasionen\n\nLa información disponible no especifica distancias mínimas, permisos detallados ni restricciones cuantitativas específicas más allá de estos principios generales de protección y uso racional.",
+    "sources": [
+      {
+        "document": "decreto_2656.pdf",
+        "page": 4
+      },
+      {
+        "document": "ley_1875.pdf",
+        "page": 3
+      },
+      {
+        "document": "ley_1875.pdf",
+        "page": 1
+      },
+      {
+        "document": "decreto_2656.pdf",
+        "page": 3
+      },
+      {
+        "document": "decreto_2656.pdf",
+        "page": 5
+      }
+    ],
+    "error": null,
+    "passed": true,
+    "reason": "respondió con fuentes"
+  },
+  {
+    "id": "Q03",
+    "question": "¿Qué consideraciones ambientales existen respecto de los recursos hídricos?",
+    "should_abstain": false,
+    "answer": "Basado en los documentos recuperados de la normativa ambiental de la provincia del Neuquén (Ley 1875 y Decreto 2656), se encuentran las siguientes consideraciones ambientales respecto de los recursos hídricos:\n\n**Gestión y uso sostenible:**\n- La autoridad de aplicación debe establecer criterios de uso y manejo de los cuerpos de agua, considerando su aptitud natural y los valores ambientales (Art. 4°)\n- Se promueve la elaboración de estándares ambientales uniformes para todo el territorio provincial en materia de aguas\n\n**Prevención de contaminación:**\n- Está prohibido incorporar o volcar efluentes en los cuerpos de agua cuando contengan agentes físicos, químicos o biológicos que afecten negativamente la flora, fauna, salud humana y bienes (Art. 5°)\n- Se establecen sistemas de vigilancia ambiental para monitorear las condiciones de uso y manejo de los cuerpos de agua (Art. 7°)\n\n**Responsabilidad y recuperación:**\n- Las personas o entidades que causen modificaciones en la aptitud del cuerpo de agua son responsables de realizar las acciones necesarias para recuperar su uso fijado, asumiendo los costos correspondientes (Art. 8°)\n- Se adoptarán medidas correctivas cuando los cuerpos de agua se hayan alterado en su uso previsto\n\n**Monitoreo y evaluación:**\n- Los organismos competentes deben elaborar informes anuales de diagnóstico y pronóstico sobre el estado de los cuerpos de agua, presentándolos antes del 31 de marzo de cada año\n\nLa normativa se enfoca en la protección integral de los recursos hídricos mediante prevención, monitoreo continuo, responsabilidad de los causantes de daños y medidas de recuperación ambiental.",
+    "sources": [
+      {
+        "document": "decreto_2656.pdf",
+        "page": 3
+      },
+      {
+        "document": "ley_1875.pdf",
+        "page": 2
+      },
+      {
+        "document": "ley_1875.pdf",
+        "page": 2
+      },
+      {
+        "document": "decreto_2656.pdf",
+        "page": 4
+      },
+      {
+        "document": "decreto_2656.pdf",
+        "page": 3
+      }
+    ],
+    "error": null,
+    "passed": true,
+    "reason": "respondió con fuentes"
+  },
+  {
+    "id": "Q04",
+    "question": "¿Qué debo considerar para definir la ubicación de una instalación?",
+    "should_abstain": false,
+    "answer": "Basado en los documentos recuperados, para definir la ubicación de una instalación se debe considerar lo siguiente:\n\n**Desde la perspectiva de la normativa ambiental:**\n\n- **Aptitud del suelo y usos establecidos** (Artículo 9 de Ley 1875): La autoridad de aplicación establece los usos del suelo según su aptitud, considerando todo tipo de ocupación o explotación, incluyendo asentamientos urbanos, industriales, trazados de vías de comunicación, tendido de líneas eléctricas, ductos, obras hidroeléctricas, explotaciones mineras, agrícolas, ganaderas, forestales y turísticas.\n\n- **Protección de tierras agrícolas sistematizadas bajo riego**: La normativa establece la necesidad de proteger las tierras aptas para cultivos que se encuentran bajo riego, por lo que la ubicación debe considerar la afectación a estas áreas.\n\n- **Evaluación ambiental previa obligatoria** (Artículos 24 de Ley 1875 y Decreto 2656/Reglamentación): Todo proyecto que pueda alterar el medio ambiente por su envergadura o características debe contar con:\n  - Declaración de Impacto Ambiental (DIA)\n  - Plan de Gestión Ambiental (PGA) aprobado\n  - Informe Ambiental o Estudio de Impacto Ambiental según corresponda\n\n**Coordinación interinstitucional**: La definición de ubicación requiere la coordinación con los demás organismos competentes de la Provincia para asegurar el cumplimiento de las normas de manejo del suelo y las regulaciones específicas para cada tipo de actividad.\n\n**Importante**: Los documentos recuperados no contienen requisitos específicos de distancias, restricciones detalladas o permisos particulares para la ubicación de instalaciones. La información disponible establece el marco general de evaluación ambiental y la necesidad de consultar los Anexos II, III, IV y V del Decreto 2656 para obtener requisitos específicos según el tipo de actividad.\n\nSi requiere información más detallada sobre ubicación específica, debe consultar la reglamentación ambiental correspondiente al tipo de instalación que pretende implementar.",
+    "sources": [
+      {
+        "document": "ley_1875.pdf",
+        "page": 5
+      },
+      {
+        "document": "ley_1875.pdf",
+        "page": 5
+      },
+      {
+        "document": "decreto_2656.pdf",
+        "page": 9
+      },
+      {
+        "document": "decreto_2656.pdf",
+        "page": 9
+      },
+      {
+        "document": "ley_1875.pdf",
+        "page": 3
+      }
+    ],
+    "error": null,
+    "passed": true,
+    "reason": "respondió con fuentes"
+  },
+  {
+    "id": "Q05",
+    "question": "¿Qué consideraciones ambientales existen para actividades hidrocarburíferas?",
+    "should_abstain": false,
+    "answer": "No pude generar una respuesta para esa consulta. Reformula la pregunta con más detalle.",
+    "sources": [
+      {
+        "document": "decreto_2656.pdf",
+        "page": 7
+      },
+      {
+        "document": "ley_1875.pdf",
+        "page": 5
+      },
+      {
+        "document": "decreto_2656.pdf",
+        "page": 9
+      },
+      {
+        "document": "decreto_2656.pdf",
+        "page": 9
+      },
+      {
+        "document": "decreto_2656.pdf",
+        "page": 7
+      }
+    ],
+    "error": null,
+    "passed": false,
+    "reason": "falló la generación (Cohere 422)"
+  },
+  {
+    "id": "Q06",
+    "question": "¿Qué aspectos ambientales debería analizar para una línea de conducción?",
+    "should_abstain": false,
+    "answer": "Basado en los documentos recuperados (ley_1875.pdf y decreto_2656.pdf), se establece que para cualquier obra o proyecto que pueda alterar el medio ambiente -como sería el caso de una línea de conducción- se requiere:\n\n**Requisitos ambientales establecidos:**\n- Presentación de Informe Ambiental (IA) o Estudio de Impacto Ambiental (EIA)\n- Formulación de Declaración de Impacto Ambiental (DIA)\n- Detalle de Plan de Gestión Ambiental (PGA) para todas las etapas del proyecto\n- Obtención de licencia ambiental previa al inicio de cualquier actividad\n- Audiencias públicas como parte del procedimiento de aprobación\n\n**Sin embargo, la información recuperada no contiene**\n- Listado específico de aspectos ambientales particulares para analizar en una línea de conducción\n- Variables o parámetros ambientales detallados que deban evaluarse\n- Distancias mínimas o restricciones específicas de ubicación\n\n**Conclusión:**\nLos documentos establecen la obligación de realizar evaluaciones ambientales y presentar estudios, pero no especifican qué aspectos ambientales particulares deberían analizarse para una línea de conducción. Para obtener el listado detallado de variables ambientales específicas (como biodiversidad, suelos, agua, fauna, etc.) sería necesario consultar los Anexos II y III mencionados en la normativa, que no están disponibles en los documentos recuperados.\n\nLa información disponible es insuficiente para responder completamente su consulta sobre los aspectos ambientales específicos que deberían analizarse.",
+    "sources": [
+      {
+        "document": "decreto_2656.pdf",
+        "page": 10
+      },
+      {
+        "document": "decreto_2656.pdf",
+        "page": 9
+      },
+      {
+        "document": "ley_1875.pdf",
+        "page": 5
+      },
+      {
+        "document": "ley_1875.pdf",
+        "page": 5
+      },
+      {
+        "document": "decreto_2656.pdf",
+        "page": 9
+      }
+    ],
+    "error": null,
+    "passed": true,
+    "reason": "respondió con fuentes"
+  },
+  {
+    "id": "Q07",
+    "question": "¿Cuándo corresponde presentar un Informe Ambiental?",
+    "should_abstain": false,
+    "answer": "Según el Decreto 2656 y su reglamentación, la presentación de un Informe Ambiental (I.A.) corresponde en los siguientes casos:\n\n**Según el Artículo 24º de la reglamentación:**\n- Los proponentes (públicos o privados) deben presentar un Informe Ambiental (I.A.) o, en su caso, un Estudio de Impacto Ambiental (E.I.A.) **previamente al inicio de cualquier actividad** \n- Esto aplica a las actividades listadas en los Anexos IV y V del decreto\n- En ambos documentos, el proponente debe formular una Declaración de Impacto Ambiental (DIA) y detallar el Plan de Gestión Ambiental (PGA)\n\n**Marco general:**\n- Los Estudios de Impacto Ambiental (E.I.A.), Informes Ambientales (I.A.) y Auditorías Ambientales (A.A.) se elaboran y presentan conforme se determina en los Anexos II y III\n- La exigencia de presentar estos documentos es condición necesaria para otorgar o renovar licencias, permisos, concesiones o autorizaciones de cualquier tipo\n- Ninguna obra, proyecto o emprendimiento puede proseguir si se inició sin contar con la licencia ambiental emitida por la autoridad de aplicación\n\n**Información disponible:**\nEl documento indica que el Anexo IV contiene un \"Listado No Taxativo de Actividades que Requieren de la Presentación de un Informe Ambiental (I.A.)\", pero el contenido específico de este anexo no fue recuperado en los documentos proporcionados.\n\nPor lo tanto, si necesita conocer las actividades específicas que requieren un Informe Ambiental, debería consultar directamente el Anexo IV del Decreto 2656.",
+    "sources": [
+      {
+        "document": "decreto_2656.pdf",
+        "page": 9
+      },
+      {
+        "document": "decreto_2656.pdf",
+        "page": 9
+      },
+      {
+        "document": "decreto_2656.pdf",
+        "page": 10
+      },
+      {
+        "document": "decreto_2656.pdf",
+        "page": 7
+      },
+      {
+        "document": "decreto_2656.pdf",
+        "page": 9
+      }
+    ],
+    "error": null,
+    "passed": true,
+    "reason": "respondió con fuentes"
+  },
+  {
+    "id": "Q08",
+    "question": "¿Se pueden verter sustancias en zonas protegidas?",
+    "should_abstain": false,
+    "answer": "Basado en los documentos recuperados, no se encontró información específica sobre regulaciones para \"zonas protegidas\" como una categoría distinctiva.\n\nSin embargo, la normativa ambiental general de la provincia del Neuquén establece prohibiciones importantes:\n\n**Prohibición general (Artículo 21 de Ley 1875 y Decreto 2656):**\n- Ninguna persona o entidad podrá incorporar, verter, emitir, almacenar, transportar o manejar sustancias que:\n  - Alteren la aptitud de los recursos naturales\n  - Representen un riesgo para la salud y seguridad de la población\n  - Afecten la vida animal y vegetal\n\n**Prohibición específica para agua (Artículo 5° de Ley 1875):**\n- No se podrán incorporar o volcar efluentes en los cuerpos de agua cuando contengan agentes físicos, químicos o biológicos que afecten negativamente a la flora, fauna, salud humana y bienes.\n\n**Conclusión:**\nLa información disponible no permite determinar específicamente si se pueden verter sustancias en zonas protegidas, ya que los documentos no distinguen entre diferentes categorías de áreas protegidas ni establecen regulaciones específicas para ellas. La normativa establece prohibiciones generales para actividades que puedan dañar el ambiente, la salud o la vida silvestre en todo el territorio provincial.\n\nPara obtener una respuesta precisa sobre zonas protegidas, se requiere información adicional específica sobre la categorización de áreas protegidas en la provincia y sus regulaciones particulares.",
+    "sources": [
+      {
+        "document": "ley_1875.pdf",
+        "page": 5
+      },
+      {
+        "document": "decreto_2656.pdf",
+        "page": 8
+      },
+      {
+        "document": "decreto_2656.pdf",
+        "page": 7
+      },
+      {
+        "document": "ley_1875.pdf",
+        "page": 2
+      },
+      {
+        "document": "decreto_2656.pdf",
+        "page": 3
+      }
+    ],
+    "error": null,
+    "passed": true,
+    "reason": "respondió con fuentes"
+  },
+  {
+    "id": "Q09",
+    "question": "¿Esta ubicación cumple con toda la normativa ambiental?",
+    "should_abstain": true,
+    "answer": "No puedo determinar si la ubicación cumple con toda la normativa ambiental porque la información recuperada no incluye datos específicos sobre:\n\n- La ubicación exacta a la que se refiere\n- El tipo de proyecto, obra o actividad que se planea realizar\n- Los estudios ambientales realizados (Declaración de Impacto Ambiental, Estudio de Impacto Ambiental, etc.)\n- Las licencias o permisos ambientales obtenidos\n- Las condiciones específicas del lugar en relación con la normativa\n\nLos documentos recuperados contienen la normativa general de la provincia del Neuquén (Ley 1875 y Decreto 2656), que establece requisitos como:\n- Obligatoriedad de contar con licencia ambiental antes de iniciar cualquier obra o proyecto\n- Presentación de Declaración de Impacto Ambiental y Plan de Gestión Ambiental\n- Evaluación de impactos ambientales según la envergadura del proyecto\n\nSin embargo, no dispongo de información concreta sobre la ubicación específica ni el proyecto en cuestión para realizar una evaluación de cumplimiento normativo.\n\n¿Podría proporcionar más detalles sobre la ubicación específica y el tipo de proyecto o actividad que se está evaluando?",
+    "sources": [
+      {
+        "document": "decreto_2656.pdf",
+        "page": 9
+      },
+      {
+        "document": "ley_1875.pdf",
+        "page": 5
+      },
+      {
+        "document": "decreto_2656.pdf",
+        "page": 8
+      },
+      {
+        "document": "decreto_2656.pdf",
+        "page": 9
+      },
+      {
+        "document": "decreto_2656.pdf",
+        "page": 10
+      }
+    ],
+    "error": null,
+    "passed": true,
+    "reason": "se abstuvo correctamente"
+  },
+  {
+    "id": "Q10",
+    "question": "¿Cuánto cuesta construir una línea de conducción?",
+    "should_abstain": true,
+    "answer": "Luego de revisar los documentos recuperados sobre normativa ambiental de la provincia del Neuquén, no he encontrado información que indique cuánto cuesta construir una línea de conducción.\n\nLos documentos disponibles contienen:\n\n- Ley 1875 y Decreto 2656 sobre protección ambiental\n- Requisitos para Declaraciones de Impacto Ambiental\n- Normas para el uso del suelo y protección del medio ambiente\n- Procedimientos para licencias ambientales\n- Responsabilidades por daños ambientales\n\nSin embargo, ninguno de estos textos proporciona datos sobre costos de construcción de infraestructura, especificaciones técnicas de líneas de conducción, ni valores económicos referenciales para este tipo de obras.\n\nLa información disponible en los documentos recuperados no es suficiente para responder su consulta sobre el costo de construir una línea de conducción. Para obtener esta información, sería necesario consultar documentación específica sobre presupuestos de obra, estudios de ingeniería, o contactar directamente con las autoridades provinciales competentes en materia de infraestructura.",
+    "sources": [
+      {
+        "document": "ley_1875.pdf",
+        "page": 3
+      },
+      {
+        "document": "decreto_2656.pdf",
+        "page": 4
+      },
+      {
+        "document": "ley_1875.pdf",
+        "page": 5
+      },
+      {
+        "document": "decreto_2656.pdf",
+        "page": 9
+      },
+      {
+        "document": "decreto_2656.pdf",
+        "page": 9
+      }
+    ],
+    "error": null,
+    "passed": false,
+    "reason": "debía abstenerse y respondió"
+  }
+]
